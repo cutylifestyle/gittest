@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         String result = "222";
         String a = "2";
         String b = "5";
+        String c = "5";
     }
 }
