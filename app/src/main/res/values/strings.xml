@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">gittest</string>
+    <string name="test_str">请拍</string>
+    <string name="test_app">"<font color='#ff0000'>" + p + "</font>" + time</string>
+
+    <string name="welcome_info_2"><![CDATA[欢迎你，<font color="#c5663e">%s</font>]]></string>
 </resources>
